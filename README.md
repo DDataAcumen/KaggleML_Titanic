@@ -1,2 +1,2 @@
 # KaggleML_Titanic
-Predective Model that justifies the expected Survival Patterns for the commuter based on Decision Tree Approach.
+Predective Model that justifies the expected Survival Patterns for the commuter based on Decision Tree Approach.trainset.csv is our original Dataset.
